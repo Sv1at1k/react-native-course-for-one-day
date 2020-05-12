@@ -1,0 +1,17 @@
+{
+  "name": "easy-app",
+  "displayName": "easy-app",
+  "expo": {
+    "name": "easy-app",
+    "slug": "easy-app",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
